@@ -6,6 +6,13 @@
 
 **PT-BR** Meu nome é Matheus, atualmente um estudande de ciência da computação com um foco na ciência de dados. :computer:
 
+My current goals are to:
+
+- Finish college;
+- Specialize in Data Science;
+- Build strong foundations in Machine Learning;
+
+
 
 |Social| Connect with me!|
 -----------|-------------|
