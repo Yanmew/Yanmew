@@ -10,8 +10,18 @@ My current goals are to:
 
 - Finish college;
 - Specialize in Data Science and Machine Learning;
+- Study abroad;
 - Let my work speak for itself.
 
+Currently studying:
+
+- Computer Science;
+- Data Science Specialization - University of Michigan;
+- Philosophy, Introspection and Critical Thinking;
+- Mandarin Chinese - Confucius Institute - UNESP;
+- Latin language - Grammar, Conversation, Reading & Listening Comprehension.
+
+Feel free to reach out to me in English, Spanish, Portuguese, French, Chinese or Latin.
 
 
 |Social| Connect with me!|
