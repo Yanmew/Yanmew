@@ -1,6 +1,6 @@
 # Hello! mbdp.ym here. :wave:
 
-Data Science |EN/PT/ES Translator|Machine Learning|Language Teacher
+**Data Science | EN/PT/ES Translator | Machine Learning | Language Teacher**
 
 **EN-US:** My name is Matheus, currently a Computer Science student with a focus in data science. :computer:
 
