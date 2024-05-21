@@ -24,9 +24,10 @@ Currently studying:
 Feel free to reach out to me in English, Spanish, Portuguese, French, Chinese or Latin.
 
 
-|Social| Connect with me!|
------------|-------------|
-[![LinkedIn](https://cdn.discordapp.com/attachments/1118312260159406123/1126167540293439589/icons8-linkedin-40.png)](https://www.linkedin.com/in/matheusbilbao/)| LinkedIn, the social platform I am most active in.|
+| Connect with me! |
+|-----------|
+| [LinkedIn](https://www.linkedin.com/in/matheusbilbao/) |
+| [Instagram](https://www.instagram.com/mbdp.ym) |
 
 ---
 
